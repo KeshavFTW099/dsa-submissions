@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KeshavFTW099/dsa-submissions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/KeshavFTW099/neetcode-submissions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -85,4 +86,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KeshavFTW099/neetcode-submissions/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KeshavFTW099/dsa-submissions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
